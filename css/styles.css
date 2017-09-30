@@ -1,0 +1,205 @@
+html,body{
+	margin: 0 auto;
+}
+.wrapper{
+	max-width:1024px;
+	margin: 0 auto;
+}
+.header{
+	background:#f56262;
+	min-height:100px;
+}
+.header img{
+	width:60px;
+	}
+.hfont{
+	display: inline-block;
+	font-size: 35px;
+	padding-left: 2px;
+	text-shadow: 0px 1px 1px #000;
+	color:white;
+}
+.hh{
+	color:white;
+}
+.menu{
+	background:#f56262;
+	padding: 10px;
+	width: 572px;
+	float: right;
+	font-family: Arial,sans-serif;
+	font-weight: bold;
+	margin-top: 40px;
+	color:white;
+}
+.menu ul{
+	margin:0;
+	padding:0;
+}
+.menu li{
+	display:inline;
+	float: left;
+	margin-right: 0 10px;
+}
+.menu li.active{
+	background-color: #232324;
+}
+.menu a{
+	display: block;
+	padding: 0 10px;
+	line-height: 30px;
+	color: #fff;
+	text-decoration: none;		
+	border-radius: 3px;
+}
+.second{
+	background:#eb4f4e;
+	padding:50px;
+}
+.Welcome{
+	font-family: Arial,sans-serif;
+	font-size:50px;
+	color:white;
+	text-align:center;
+}
+.smartf {
+	font-family: Arial,sans-serif;
+	font-size:35px;
+	color:white;
+	text-align:center;
+}
+.third{
+	padding:50px;
+	background-color: #232324;
+}
+.third h2{
+	font-size:35px;
+	font-family: Arial,sans-serif;
+	color:white;
+	text-align:center;
+}
+.this{
+	font-family: Arial,sans-serif;
+	color:#a73f3e;
+	text-align:center;
+	font-size:30px;
+	
+}.thiss{
+	font-family: Arial,sans-serif;
+	color:#a73f3e;
+	text-align:center;
+	font-size:35px;
+}
+.third h3{
+	font-family: Arial,sans-serif;
+	color:white;
+	text-align:center;
+}
+.items{
+	text-align:center;
+}
+.items img{
+	width:800px;
+	
+}
+.items h3{
+	font-size:35px;
+}
+.fourth{
+	background-color:#6cc372;	
+	padding:50px;	
+}
+.fourth h2{
+	font-size:30px;
+	font-family: Arial,sans-serif;
+	color:white;
+	text-align:center;	
+}
+.this1{
+	font-family: Arial,sans-serif;
+	color:black;
+	text-align:center;
+}
+.fourth p{
+	font-family: Arial,sans-serif;
+	color:#6cc372;
+}
+.fourth .posts{
+	font-family: Arial,sans-serif;
+	color:#ba382c;
+}
+.accounts{
+	text-align:center;
+}
+.accounts img{
+	width:400px;
+}
+.account1{
+	background-color:white;
+	display:inline-block;	
+	margin:10px;
+	padding:10px;	
+}
+.account2{
+	background-color:white;
+	display:inline-block;
+	margin: 10px;
+	padding:10px;	
+}
+.account2 img{
+	width:370px;
+}
+.follow{
+	background-color:#6cc372;
+	font-family:Arial,sans-serif;
+	color:white;
+	padding:10px;
+	
+}
+.follow a{
+	text-decoration:none;
+	color:white;
+}
+.follow img{
+	max-width:25px;
+	float:left;
+}
+.footer{
+	background-color:#232324;
+	padding:20px;
+	
+}
+.motion{
+	display:inline-block;
+	color:#a73f3e;
+}
+.foot{
+	display:inline-block;
+	color:white;
+	margin-right:600px;
+	
+}
+.icons img{
+	background-color:#eb4f4e;
+	max-width:10px;
+	padding:3px;	
+}
+.icons .two{
+	max-width:17px;
+	padding:5px;
+}
+.icons .three{
+	max-width:15px;
+	padding:4px;
+}
+.icons{
+	display:inline-block;
+	text-align:center;
+
+}
+
+@media screen and (max-width: 480px){
+	.menu li{
+		display:block;
+		text-align:center;
+	}
