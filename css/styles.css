@@ -150,9 +150,11 @@ html,body{
 	margin: 10px;
 	padding:10px;	
 }
-.account2 img{
-	width:370px;
+.sss{
+	background-color:white;
+	padding-top:70px;
 }
+
 .follow{
 	background-color:#6cc372;
 	font-family:Arial,sans-serif;
@@ -260,6 +262,13 @@ form{
 .ss{
 	float:left;
 }
+.sertificates2 img{
+	width:500px;
+	padding:5px;
+}
+.dd{
+	float:left;
+	}
 
 
 
