@@ -70,7 +70,8 @@ html,body{
 	font-family: Arial,sans-serif;
 	font-size:35px;
 	color:white;
-	text-align:center;
+	tex
+	t-align:center;
 }
 .third{
 	padding:50px;
@@ -128,6 +129,14 @@ html,body{
 	font-family: Arial,sans-serif;
 	color:#6cc372;
 }
+.karta{
+text-align:center;
+}
+.karta iframe{
+width:900px;
+
+}
+
 .fourth .posts{
 	font-family: Arial,sans-serif;
 	color:#ba382c;
